@@ -1,6 +1,6 @@
 # 解决 nerdctl pull nfs-provisioner的问题
 # helm安装 nfs-provisioner char包版本与app版本不一致的问题
-# 时间
+# 
 ---
 # nfs-volume.yaml
 apiVersion: v1
