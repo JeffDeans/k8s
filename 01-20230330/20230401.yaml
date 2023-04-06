@@ -1,5 +1,9 @@
 #做一个terrform的例子
 #plan计划，创建一个执行计划，将根据配置文件创建、更新或销毁基础架构
-#oracle dg启停脚本上传github
-
-
+#oracle dg启停脚本上传github (done)
+# kubeadm安装k8s的配置文件上传到github上
+# 更改pve网络配置后,如何恢复pve上面的qm虚拟机,可以先把3个机械硬盘干掉 不然不好带走
+其中涉及到k8sv1.18.6 k8s v1.22 k8 v1.24
+#Rancher RKE2
+#openKruise 
+#openKruise cloneset
