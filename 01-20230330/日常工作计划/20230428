@@ -1,0 +1,31 @@
+一 kafka环境搭建文档编写,熟悉常规kafka操作,
+包括
+1. 添加和删除主题
+2.修改主题
+3.优雅关机
+4.平衡领导
+5.跨机架平衡副本
+6.集群间镜像数据
+7.检查消费者群体
+8.扩展kafka集群
+9.退役broker
+10.增加复制因子
+11.设定配额
+kafka集群搭建 分区 副本
+kafka Socket Server Settings
+三节点broker kafka集群安装
+3个Brokers如何分配partition
+默认2个relicas
+0
+1
+2
+vmware converter工具转换试用
+应用服务迁移前应该正确关闭服务,首先关闭数据库,接着是应用
+
+
+二 apisix 基本概念入门
+路由
+上游
+在路由上使用apisix插件限速限流
+三 apisix进阶入门
+
